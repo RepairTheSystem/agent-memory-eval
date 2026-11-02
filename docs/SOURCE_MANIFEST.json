@@ -1,0 +1,95 @@
+{
+  "description": "Source fingerprints for the Python release; no source credentials or services included.",
+  "files": [
+    {
+      "path": "memeval/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "memeval/db.py",
+      "source_sha256": "e8d29e8463e77cf22ce6b15c8f199dda95793eeefd579e7fc870cbb87c23bac2",
+      "release_sha256": "a152042f97dbaa9b32479c0a7122994e2d2f0276a0f41a6a9ec6861822a5f100"
+    },
+    {
+      "path": "memeval/fake_llm.py",
+      "source_sha256": "e25592e9442f97526f1f6679bcd8badb1931d1bcdb5425cb250d2c5e24b2688f",
+      "release_sha256": "c32a62d014e2179ecfb4bdd31e553dae0cdbf8cc9a865418926da9685deb1493"
+    },
+    {
+      "path": "memeval/live.py",
+      "source_sha256": "2962b2fdef1ebc619659ccb12f00ebf0706ca429ff4f289ba6105b8b24818ff9",
+      "release_sha256": "73c3cb8c5730b56a8defa64a6e3420e7a4467380cd1f7f121a1d50b156a69501"
+    },
+    {
+      "path": "memeval/llm.py",
+      "source_sha256": "1fdac36cf83ea03941dc6133ad78754245f0b70bd2da48b9e4ac5b44e9edded1",
+      "release_sha256": "9b440978774ccf772aa497980fe3a52fb7ac0e4cdd9d390d5b9ddd227ad1d9d3"
+    },
+    {
+      "path": "memeval/mock_scenarios.py",
+      "source_sha256": "2582e27724241baeaa17f89207ed0d36f8d0237c02f59d287ba185f2036f1c5c",
+      "release_sha256": "2582e27724241baeaa17f89207ed0d36f8d0237c02f59d287ba185f2036f1c5c"
+    },
+    {
+      "path": "memeval/openrouter.py",
+      "source_sha256": "ce93a98a088f8fe8f51915426addfef3651c8be8ce6b3a04cca7f53e4c4cf287",
+      "release_sha256": "e99a9a3e136413ad6ec79d4b542e5df669d601a3c456b28412a5c5af14573ef3"
+    },
+    {
+      "path": "memeval/pipeline.py",
+      "source_sha256": "dead8d6747c2ec97d630d98bd1740504cf40ca02fadd687c35d46d1dd33d7ee4",
+      "release_sha256": "5939d63d36f09f6b1ebd53a8ef297ad9fe6f2605216fb5e2e152ce53536e85cf"
+    },
+    {
+      "path": "memeval/profile.py",
+      "source_sha256": "11b4748e87574ffaf209106d6a548489b6dc4306f6a233bd5ba5e7e64eb20d50",
+      "release_sha256": "e0021bcba709dfa236daf1bf7295bf29e77ad02a9ec85574cc754910bfcb3cbb"
+    },
+    {
+      "path": "memeval/prompts.py",
+      "source_sha256": "9fd5c152b595d8fda08028e6f18d141f59440d7d1716c5c5b8e9b8e02c43a3cb",
+      "release_sha256": "c9afc422030b47a8f8124d70ed2349e23051cdf3268a05463561b16575de8332"
+    },
+    {
+      "path": "memeval/prompts_en.py",
+      "source_sha256": "0b9421f65598a0c5451f02c29a137b80fc67e95805374d6e029f53051a0bce29",
+      "release_sha256": "a64ad5b6ecfa9720160c9f2cdaac80efad35960c13a0679e43e64690f4e36147"
+    },
+    {
+      "path": "memeval/prompts_profile.py",
+      "source_sha256": "a1fb971c35435082039e0be4191ce8f0661c05c2e3ae1c5875ba4c1768a9de95",
+      "release_sha256": "6e9c462e217b4d616f06aab2e0b5a40c8ae54dcf5356a3c6245ba3d966b8ac77"
+    },
+    {
+      "path": "memeval/prompts_profile_en.py",
+      "source_sha256": "382fe11b96bb7b61e7a2841ad9c32ac914b9fb86601f3187f63a7221806d006c",
+      "release_sha256": "382fe11b96bb7b61e7a2841ad9c32ac914b9fb86601f3187f63a7221806d006c"
+    },
+    {
+      "path": "memeval/public_bench.py",
+      "source_sha256": "02a166a522b2628b315de2c161168d9ae4adb4423eb41ca3833d74e668b3de1e",
+      "release_sha256": "c8fcd0ca52c80c58cb8def0dd1abd2507a67e8b737f4977aad4584eb9bfd2445"
+    },
+    {
+      "path": "memeval/report.py",
+      "source_sha256": "a0f219b9fc6f179584bf7a5e9915a2ef3734f30105f63274ce49375f3dfd4f2d",
+      "release_sha256": "b7a45fe4713dbb2ec677c8ac315a4b43e952ca9d7e3d32731d3c1f4f61559717"
+    },
+    {
+      "path": "memeval/report_public.py",
+      "source_sha256": "b9fc09d0cfdc509308683bced14a9f0223c145f59afef92b21a2a8e2731dd0c9",
+      "release_sha256": "b9fc09d0cfdc509308683bced14a9f0223c145f59afef92b21a2a8e2731dd0c9"
+    },
+    {
+      "path": "memeval/stats.py",
+      "source_sha256": "9485db81fb3e801b27f6ec3a880af90ccadca6473b8987ef4e919a80d6042221",
+      "release_sha256": "9485db81fb3e801b27f6ec3a880af90ccadca6473b8987ef4e919a80d6042221"
+    },
+    {
+      "path": "memeval/transcripts.py",
+      "source_sha256": "943be604220215f6b6ddf3054ab0ac2076050f4e28f6e6a36a186dbf7a449d4f",
+      "release_sha256": "943be604220215f6b6ddf3054ab0ac2076050f4e28f6e6a36a186dbf7a449d4f"
+    }
+  ]
+}

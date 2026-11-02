@@ -1,0 +1,22 @@
+# Local secrets and local model settings
+*.env
+.env
+.env.*
+!*.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+reports/
+datasets/
+build/
+dist/
+*.egg-info/
+.DS_Store
+Thumbs.db
